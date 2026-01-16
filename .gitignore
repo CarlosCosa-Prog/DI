@@ -1,0 +1,28 @@
+# IntelliJ / IDEs
+.idea/
+*.iml
+
+# Gradle / builds
+.gradle/
+build/
+gradlew*
+gradle.properties
+settings.gradle.kts
+build.gradle*
+out/
+
+# Otros
+*.log
+*.tmp
+# IntelliJ / IDEs
+.idea/
+*.iml
+
+# Gradle / builds
+.gradle/
+build/
+
+# Otros
+*.log
+*.tmp
+out/
