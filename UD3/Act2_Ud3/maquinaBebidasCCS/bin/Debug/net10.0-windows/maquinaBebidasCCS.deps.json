@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "maquinaBebidasCCS/1.0.0": {
+        "runtime": {
+          "maquinaBebidasCCS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "maquinaBebidasCCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
