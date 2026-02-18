@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karlo\\Desktop\\UD5\\Exercici1y3\\ejercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BF53A8-DE68-2C29-5B9E-A5CA5FE4C702}|ejercicio2\\ejercicio2.csproj|c:\\users\\karlo\\desktop\\ud5\\exercici1y3\\ejercicio2\\ejercicio2\\documentacion_a1u5.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{C0BF53A8-DE68-2C29-5B9E-A5CA5FE4C702}|ejercicio2\\ejercicio2.csproj|solutionrelative:ejercicio2\\documentacion_a1u5.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Documentacion_A1U5.md",
+              "DocumentMoniker": "C:\\Users\\karlo\\Desktop\\UD5\\Exercici1y3\\ejercicio2\\ejercicio2\\Documentacion_A1U5.md",
+              "RelativeDocumentMoniker": "ejercicio2\\Documentacion_A1U5.md",
+              "ToolTip": "C:\\Users\\karlo\\Desktop\\UD5\\Exercici1y3\\ejercicio2\\ejercicio2\\Documentacion_A1U5.md",
+              "RelativeToolTip": "ejercicio2\\Documentacion_A1U5.md",
+              "ViewState": "AgIAAJQBAAAAAAAAAAAIwLEBAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-17T08:48:13.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
